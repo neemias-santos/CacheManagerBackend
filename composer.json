@@ -1,0 +1,14 @@
+{
+    "name": "neemias/zend-cache-manager",
+    "description": "Manager cached",
+    "require": {
+        "zendframework/zendframework1": "1.*",
+        "twbs/bootstrap": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Neemias Santos",
+            "email": "Neemiassantos.16@gmail.com"
+        }
+    ]
+}
